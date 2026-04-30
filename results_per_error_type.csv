@@ -1,0 +1,11 @@
+Error Type,Top-3 Accuracy
+Gender Agreement,0.6913
+Verb Agreement,0.6667
+Person Agreement,0.6875
+Number Agreement,0.6772
+Honorific Agreement,0.661
+Neuter Agreement,0.6682
+Tense Error,0.7449
+Postposition Error,0.6667
+Case Marker Error,0.6
+Extra Suffix,0.9302
